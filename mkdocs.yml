@@ -22,8 +22,10 @@ docs_dir: docs
 # Structure du menu principal de navigation, chemins relatifs au dossier docs_dir
 nav: 
   - La page d'accueil : index.md
-  - Un notebook jupyter : Notebook.ipynb
-  - Un autre notebook jupyter : truc.ipynb
+  - 0_0 : 0_0-Decouverte-notebook.ipynb
+  - 0_1 : 0_1-MarkDown-Le_BN_pour_rapporter.ipynb
+  - 0_2 : 0_2-HTML-Le_BN_pour_multimedier.ipynb
+  - 0_3 : 0_3-LaTeX-Le_BN_pour_formuler.ipynb
   # Référencer vos autres pages ci-dessus...
 
 # Configuration du thème https://squidfunk.github.io/mkdocs-material/creating-your-site/#configuration
