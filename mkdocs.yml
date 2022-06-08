@@ -26,6 +26,14 @@ nav:
   - 0_1 : 0_1-MarkDown-Le_BN_pour_rapporter.ipynb
   - 0_2 : 0_2-HTML-Le_BN_pour_multimedier.ipynb
   - 0_3 : 0_3-LaTeX-Le_BN_pour_formuler.ipynb
+  - 0_4 : 0_4-Arithmetique-Le_BN_pour_calculer.ipynb
+  - 0_5 : 0_5-Display-Le_BN_pour_afficher.ipynb
+  - 0_6 : 0_6-Les_types_construits.ipynb
+  - 1 : 1_0-Lucien-NSI-Python.ipynb
+  - 2 : 2_0-Histoire_Informatique.ipynb
+  - 3_0 : 3_0-Binaire-Le_BN_pour_coder.ipynb
+  - 3_5 : 3_5-Tableau Python Binaire.ipynb
+  - Exercices pratiques : Pratique-NSI.ipynb
   # Référencer vos autres pages ci-dessus...
 
 # Configuration du thème https://squidfunk.github.io/mkdocs-material/creating-your-site/#configuration
